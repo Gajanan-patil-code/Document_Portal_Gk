@@ -45,6 +45,13 @@ git commit -m "<write your commit message>"
 ```
 git push
 ```
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+```
+
 ```
 echo "# Document_Portal_Gk" >> README.md
 git init
