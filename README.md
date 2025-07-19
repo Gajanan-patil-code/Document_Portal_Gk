@@ -45,7 +45,7 @@ git commit -m "<write your commit message>"
 ```
 git push
 ```
-
+```
 echo "# Document_Portal_Gk" >> README.md
 git init
 git add README.md
@@ -54,7 +54,12 @@ git branch -M main
 git remote add origin https://github.com/Gajanan-patil-code/Document_Portal_Gk.git
 git push -u origin main
 
+```
 
+```
 git remote add origin https://github.com/Gajanan-patil-code/Document_Portal_Gk.git
 git branch -M main
 git push -u origin main
+
+```
+
